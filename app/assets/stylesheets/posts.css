@@ -1,0 +1,14 @@
+.post {
+    border: 1px solid;
+    width: 40%;
+    height: 30%;
+    margin-top: 30px;
+}
+
+.post-data {
+    color: gray;
+}
+
+.post-content {
+    color: red;
+}
